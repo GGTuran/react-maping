@@ -4,6 +4,7 @@ const Map = () => {
     return (
         <div>
             <h2>maped</h2>
+            <p>why did you do this</p>
         </div>
     );
 };
